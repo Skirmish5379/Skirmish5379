@@ -1,8 +1,8 @@
-### < Hello world, I'm **Voicu Babiciu** > <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"/>
+### < Hello world, I'm **Skirmish** > <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"/>
 
 ```dart
 
-final Map<String, dynamic> voicu = <String, dynamic>{
+final Map<String, dynamic> skirmish = <String, dynamic>{
     'pronouns': 'he' ?? 'him',
     'description': <String>[
       'Optimistic',
