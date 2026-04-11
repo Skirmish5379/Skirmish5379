@@ -114,14 +114,13 @@ Sunday                   484 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Bucharest
 
 💬 Programming Languages: 
-HTML                     5 mins              █████████████░░░░░░░░░░░░   53.61 % 
-Python                   5 mins              ████████████░░░░░░░░░░░░░   46.39 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  10 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      10 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Dart** 
@@ -137,7 +136,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/04/2026 01:21:28 UTC
+ Last Updated on 11/04/2026 01:15:30 UTC
 <!--END_SECTION:waka-->
 
 
