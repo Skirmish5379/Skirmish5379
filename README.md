@@ -69,7 +69,7 @@ final Map<String, dynamic> skirmish = <String, dynamic>{
 ![raspberry](https://img.shields.io/badge/raspberrypi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C543%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C543%20hrs%2012%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -114,13 +114,14 @@ Sunday                   484 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Bucharest
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+YAML                     5 mins              ███████████████████████░░   90.45 % 
+Bash                     0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  6 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      6 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -136,7 +137,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/04/2026 01:27:14 UTC
+ Last Updated on 17/04/2026 01:24:45 UTC
 <!--END_SECTION:waka-->
 
 
