@@ -85,42 +85,6 @@ final Map<String, dynamic> voicub = <String, dynamic>{
  > 
 > 🔑 24 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                552 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
-🌆 Daytime                1406 commits        ████████░░░░░░░░░░░░░░░░░   33.33 % 
-🌃 Evening                560 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
-🌙 Night                  1701 commits        ██████████░░░░░░░░░░░░░░░   40.32 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   667 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
-Tuesday                  625 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
-Wednesday                818 commits         █████░░░░░░░░░░░░░░░░░░░░   19.39 % 
-Thursday                 562 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
-Friday                   657 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
-Saturday                 400 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
-Sunday                   490 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Bucharest
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Dart** 
 
 ```text
@@ -134,7 +98,7 @@ C++                      2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 28/06/2026 02:15:16 UTC
+ Last Updated on 29/06/2026 02:15:26 UTC
 <!--END_SECTION:waka-->
 
 
