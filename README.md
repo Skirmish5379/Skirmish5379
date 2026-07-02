@@ -67,7 +67,7 @@ final Map<String, dynamic> voicub = <String, dynamic>{
 ![raspberry](https://img.shields.io/badge/raspberrypi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C564%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C565%20hrs%2057%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -112,15 +112,18 @@ Sunday                   490 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Bucharest
 
 💬 Programming Languages: 
-TypeScript               1 hr 8 mins         ███████████████████████░░   92.04 % 
-Markdown                 5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
+TypeScript               1 hr 33 mins        ██████████████████████░░░   86.37 % 
+Markdown                 12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
+YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
 
 🔥 Editors: 
-Claude Code              1 hr 3 mins         █████████████████████░░░░   84.47 % 
-VS Code                  11 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
+Claude Code              1 hr 36 mins        ██████████████████████░░░   88.77 % 
+VS Code                  12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
 
 💻 Operating System: 
-Mac                      1 hr 14 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 48 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -136,7 +139,7 @@ C++                      2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 01/07/2026 02:14:36 UTC
+ Last Updated on 02/07/2026 02:06:59 UTC
 <!--END_SECTION:waka-->
 
 
