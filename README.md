@@ -67,7 +67,7 @@ final Map<String, dynamic> voicub = <String, dynamic>{
 ![raspberry](https://img.shields.io/badge/raspberrypi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C572%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C572%20hrs%2058%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -112,18 +112,18 @@ Sunday                   490 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Bucharest
 
 💬 Programming Languages: 
-TypeScript               4 hrs 40 mins       █████████████████░░░░░░░░   67.30 % 
-Markdown                 39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
-YAML                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
-SQL                      23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
-JSON                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
+TypeScript               4 hrs 16 mins       ████████████████░░░░░░░░░   64.22 % 
+Markdown                 35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
+JSON                     32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
+YAML                     24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
+SQL                      23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
 
 🔥 Editors: 
-Claude Code              5 hrs 15 mins       ███████████████████░░░░░░   75.47 % 
-VS Code                  1 hr 42 mins        ██████░░░░░░░░░░░░░░░░░░░   24.53 % 
+Claude Code              4 hrs 57 mins       ███████████████████░░░░░░   74.55 % 
+VS Code                  1 hr 41 mins        ██████░░░░░░░░░░░░░░░░░░░   25.45 % 
 
 💻 Operating System: 
-Mac                      6 hrs 57 mins       █████████████████████████   100.00 % 
+Mac                      6 hrs 39 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -139,7 +139,7 @@ C++                      2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 09/07/2026 01:51:15 UTC
+ Last Updated on 10/07/2026 01:48:53 UTC
 <!--END_SECTION:waka-->
 
 
