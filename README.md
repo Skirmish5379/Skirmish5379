@@ -112,18 +112,18 @@ Sunday                   490 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Bucharest
 
 💬 Programming Languages: 
-TypeScript               3 hrs 42 mins       ████████████████░░░░░░░░░   63.27 % 
-Markdown                 35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.21 % 
-YAML                     24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
-SQL                      23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
-JSON                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
+TypeScript               33 mins             ██████░░░░░░░░░░░░░░░░░░░   25.55 % 
+Markdown                 30 mins             ██████░░░░░░░░░░░░░░░░░░░   23.24 % 
+YAML                     23 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.85 % 
+JSON                     18 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
+Other                    12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
 
 🔥 Editors: 
-Claude Code              4 hrs 29 mins       ███████████████████░░░░░░   76.62 % 
-VS Code                  1 hr 22 mins        ██████░░░░░░░░░░░░░░░░░░░   23.38 % 
+Claude Code              1 hr 23 mins        ████████████████░░░░░░░░░   64.06 % 
+VS Code                  47 mins             █████████░░░░░░░░░░░░░░░░   35.94 % 
 
 💻 Operating System: 
-Mac                      5 hrs 51 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 10 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -139,7 +139,7 @@ C++                      2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 14/07/2026 01:20:40 UTC
+ Last Updated on 15/07/2026 01:16:58 UTC
 <!--END_SECTION:waka-->
 
 
