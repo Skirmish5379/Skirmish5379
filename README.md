@@ -67,7 +67,7 @@ final Map<String, dynamic> voicub = <String, dynamic>{
 ![raspberry](https://img.shields.io/badge/raspberrypi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C572%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C574%20hrs%2058%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -112,13 +112,18 @@ Sunday                   490 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Bucharest
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               1 hr 3 mins         █████████████░░░░░░░░░░░░   53.44 % 
+Markdown                 37 mins             ████████░░░░░░░░░░░░░░░░░   31.46 % 
+Perl                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
+Other                    7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Claude Code              1 hr 51 mins        ███████████████████████░░   93.16 % 
+VS Code                  8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 59 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -134,7 +139,7 @@ C++                      2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 21/07/2026 01:27:57 UTC
+ Last Updated on 22/07/2026 01:26:50 UTC
 <!--END_SECTION:waka-->
 
 
