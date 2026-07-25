@@ -83,47 +83,6 @@ final Map<String, dynamic> voicub = <String, dynamic>{
  > 
 > 🔑 24 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                552 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
-🌆 Daytime                1406 commits        ████████░░░░░░░░░░░░░░░░░   33.33 % 
-🌃 Evening                560 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
-🌙 Night                  1701 commits        ██████████░░░░░░░░░░░░░░░   40.32 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   667 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
-Tuesday                  625 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
-Wednesday                818 commits         █████░░░░░░░░░░░░░░░░░░░░   19.39 % 
-Thursday                 562 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
-Friday                   657 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
-Saturday                 400 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
-Sunday                   490 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Bucharest
-
-💬 Programming Languages: 
-TypeScript               2 hrs 18 mins       ██████████████░░░░░░░░░░░   57.74 % 
-Markdown                 44 mins             █████░░░░░░░░░░░░░░░░░░░░   18.51 % 
-Bash                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
-Other                    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
-Perl                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
-
-🔥 Editors: 
-Claude Code              3 hrs 6 mins        ███████████████████░░░░░░   77.82 % 
-VS Code                  53 mins             ██████░░░░░░░░░░░░░░░░░░░   22.18 % 
-
-💻 Operating System: 
-Mac                      3 hrs 59 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Dart** 
 
 ```text
@@ -137,7 +96,7 @@ C++                      2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 01:30:55 UTC
+ Last Updated on 25/07/2026 01:30:25 UTC
 <!--END_SECTION:waka-->
 
 
