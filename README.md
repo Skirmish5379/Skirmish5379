@@ -67,7 +67,7 @@ final Map<String, dynamic> voicub = <String, dynamic>{
 ![raspberry](https://img.shields.io/badge/raspberrypi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C563%20hrs%2013%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C563%20hrs%2015%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-25%20hrs%2037%20mins-blue?style=flat)
 
@@ -114,13 +114,15 @@ Sunday                   490 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Bucharest
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    1 min               █████████████░░░░░░░░░░░░   53.01 % 
+YAML                     0 secs              ████████░░░░░░░░░░░░░░░░░   32.90 % 
+JSON                     0 secs              ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      2 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -142,7 +144,7 @@ C++                      2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 02/08/2026 01:43:45 UTC
+ Last Updated on 03/08/2026 01:46:38 UTC
 <!--END_SECTION:waka-->
 
 
