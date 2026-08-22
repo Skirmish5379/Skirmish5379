@@ -114,40 +114,20 @@ Sunday                   490 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Bucharest
 
 💬 Programming Languages: 
-TypeScript               1 hr 26 mins        ██████████████░░░░░░░░░░░   57.81 % 
-YAML                     31 mins             █████░░░░░░░░░░░░░░░░░░░░   20.86 % 
-JSON                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
-Other                    12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
-SQL                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
+JSON                     3 mins              ████████████████████████░   97.28 % 
+Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
 
 🔥 Editors: 
-Claude Code              2 hrs 7 mins        █████████████████████░░░░   84.46 % 
-VS Code                  23 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
+VS Code                  3 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      2 hrs 30 mins       █████████████████████████   100.00 % 
+Mac                      3 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 8 mins (85.48%)
-
-✍️ 4,176 lines written by AI, 1 lines written by hand (99.98% AI-written)
-
-🔤 214,370 Input Tokens, 133,910 Output Tokens
-
-💵 $15.92 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 12 AI Prompts
-
-Opus                     4,179 lines         █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.98% of written lines came from AI
-📝 Concise Prompter — average 462 characters per prompt
-🔁 Iterative Prompter — average 12 prompts per session
-🚀 High AI Trust — 0.52% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Dart** 
@@ -163,7 +143,7 @@ C++                      2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 21/08/2026 00:38:28 UTC
+ Last Updated on 22/08/2026 00:36:00 UTC
 <!--END_SECTION:waka-->
 
 
